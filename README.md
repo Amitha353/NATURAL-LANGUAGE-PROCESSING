@@ -25,7 +25,7 @@ a. Find the most important words
 b. Compute significance score for each word
 c. Pick the top most significant sentences
 
-II. Machine Learning based approach:
+II. Machine Learning based approach
 a. Feature extraction using bag of words model
 b. k-means clustering - to identify topic/themes
 c. K-nearest neighbors model for classifying text into topics/themes.
