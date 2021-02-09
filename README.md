@@ -56,7 +56,7 @@ iii. Aspects - Part / Whole;
 2. Calculate polarity of words;
 3. Aggregate word polarities;
 
-* Implementing rule-based approach using VADER
+* Implementing rule-based approach using VADER (Valence Aware Dictionary for sEntiment Reasoning)
 ---------------------------------------------------------
 1. Extract corpus;
 2. Classify with VADER - Positive or Negative - Compound Score;
